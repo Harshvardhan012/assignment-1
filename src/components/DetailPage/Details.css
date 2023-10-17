@@ -1,0 +1,87 @@
+.left-details{
+    padding-left: 200px;
+    margin-top: 70px;
+    width: 600px;
+}
+
+.de-recommend{
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-top: 70px;
+}
+
+.rating{
+    display: flex;text-align: center;
+}
+
+.card-buttons{
+    display: flex;
+    flex-direction: row;
+    width: auto;
+}
+
+.cardtitle{
+    display: flex;
+    flex-direction: row;
+}
+
+.price_card{
+    margin-left: 120px;
+}
+
+.de-card{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.btn_chat{
+    width: 150px;
+}
+
+.right-details{
+    padding-left: 70px;
+    margin-top: 70px;
+}
+
+.image_card{
+    border-radius: 5px; 
+    text-align: center;
+    height: 320px;
+    width: 580px;   
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;      
+    border-radius: 10px;
+}
+
+.img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 320px;
+    width: 580px;
+    background-color: antiquewhite;   
+}
+
+
+.list_why{
+    margin-left: 200px;
+}
+
+.bold_text{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Kanit', sans-serif;
+}
+
+.btn-card-recomd{
+    width: 320px;
+}
+
+.card-img-top{
+    border-radius: 10px;
+    height: 200px;
+}
+
+.de-card{
+    display: flex;
+    text-align: center;
+    height: max-content;
+}
